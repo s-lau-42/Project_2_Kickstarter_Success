@@ -4,3 +4,6 @@ Second Project in the bootcamp
 Project to predict Kickstarter success
 
 3 Days to do the project
+
+
+Data from https://webrobots.io/kickstarter-datasets/
